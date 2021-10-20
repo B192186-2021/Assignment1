@@ -19,9 +19,17 @@ ann="/localdisk/data/BPSM/AY21/TriTrypDB-46_TcongolenseIL3000_2019.bed"
 
 ####################################### Preperation ##############################################
 # if these paths are updated to different files or directories
-if [ -n "$2" ]; then dataD=$2; echo "dataD="$2; fi
-if [ -n "$3" ]; then ref=$3; echo "ref="$3; fi
-if [ -n "$4" ]; then ann=$4; echo "ann="$4; fi
+if [ -n "$2" ]; then 
+{
+dataD=$2;
+# delete the '/' tail
+if [ ${dataD:0-1} = '/' ];then dataD=${dataD:0:0-1}; fi
+echo "directory containing the pair-end RNAseq raw data: "$dataD; 
+}
+fi
+
+if [ -n "$3" ]; then ref=$3; echo "ref = "$3; fi
+if [ -n "$4" ]; then ann=$4; echo "annotation = "$4; fi
 
 # if a different thread number are specified
 if [ -n "$1" ]; then thread=$1; echo "thread="$1; fi
@@ -30,3 +38,5 @@ if [ -n "$1" ]; then thread=$1; echo "thread="$1; fi
 # copy the reference data to the present directory
 mkdir ref
 cp $ref ref/
+echo $dataD $ref $ann
+
