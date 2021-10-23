@@ -1,3 +1,5 @@
 *.fa
 *.pdf
 */
+*.out
+*.txt
