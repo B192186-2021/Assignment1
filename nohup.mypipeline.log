@@ -1,0 +1,186 @@
+nohup: ignoring input
+raw data: /localdisk/data/BPSM/AY21/fastq
+ref:      /localdisk/data/BPSM/AY21/Tcongo_genome/TriTrypDB-46_TcongolenseIL3000_2019_Genome.fasta.gz
+bedfile:  /localdisk/data/BPSM/AY21/TriTrypDB-46_TcongolenseIL3000_2019.bed
+threads:  16
+cutbp:    0
+start to clean 100k.C1-1-533_2.fq
+start to clean 100k.C1-1-501_1.fq
+start to clean 100k.C1-1-513_2.fq
+start to clean 100k.C1-1-513_1.fq
+start to clean 100k.C1-1-533_1.fq
+start to clean 100k.C1-2-514_1.fq
+start to clean 100k.C1-1-501_2.fq
+start to clean 100k.C1-2-502_2.fq
+start to clean 100k.C1-2-514_2.fq
+start to clean 100k.C1-2-534_1.fq
+start to clean 100k.C1-2-534_2.fq
+start to clean 100k.C1-2-502_1.fq
+start to clean 100k.C1-3-503_1.fq
+start to clean 100k.C1-3-503_2.fq
+start to clean 100k.C1-3-515_1.fq
+start to clean 100k.C1-3-515_2.fq
+start to clean 100k.C1-3-535_1.fq
+start to clean 100k.C1-4-516_2.fq
+start to clean 100k.C1-4-536_1.fq
+start to clean 100k.C1-3-535_2.fq
+start to clean 100k.C1-5-517_2.fq
+start to clean 100k.C1-4-516_1.fq
+start to clean 100k.C1-5-539_1.fq
+start to clean 100k.C1-4-536_2.fq
+start to clean 100k.C1-6-541_2.fq
+start to clean 100k.C1-5-517_1.fq
+start to clean 100k.C1-5-539_2.fq
+start to clean 100k.C1-6-518_1.fq
+start to clean 100k.C1-6-518_2.fq
+start to clean 100k.C1-6-541_1.fq
+start to clean 100k.C2-1-504_1.fq
+start to clean 100k.C2-1-542_1.fq
+start to clean 100k.C2-1-504_2.fq
+start to clean 100k.C2-1-519_1.fq
+start to clean 100k.C2-1-519_2.fq
+start to clean 100k.C2-1-542_2.fq
+start to clean 100k.C2-3-544_1.fq
+start to clean 100k.C2-3-521_2.fq
+start to clean 100k.C2-2-543_2.fq
+start to clean 100k.C2-2-505_1.fq
+start to clean 100k.C2-2-505_2.fq
+start to clean 100k.C2-2-520_1.fq
+start to clean 100k.C2-2-520_2.fq
+start to clean 100k.C2-2-543_1.fq
+start to clean 100k.C2-3-506_1.fq
+start to clean 100k.C2-3-506_2.fq
+start to clean 100k.C2-3-521_1.fq
+start to clean 100k.C2-3-544_2.fq
+start to clean 100k.C2-4-522_1.fq
+start to clean 100k.C2-5-523_1.fq
+start to clean 100k.C2-4-522_2.fq
+start to clean 100k.C2-4-545_2.fq
+start to clean 100k.C2-6-524_2.fq
+start to clean 100k.C2-4-545_1.fq
+start to clean 100k.C2-5-523_2.fq
+start to clean 100k.WT-1-525_1.fq
+start to clean 100k.C2-5-546_1.fq
+start to clean 100k.C2-5-546_2.fq
+start to clean 100k.C2-6-524_1.fq
+start to clean 100k.C2-6-548_1.fq
+start to clean 100k.C2-6-548_2.fq
+start to clean 100k.WT-1-507_1.fq
+start to clean 100k.WT-1-507_2.fq
+start to clean 100k.WT-2-551_1.fq
+start to clean 100k.WT-1-525_2.fq
+start to clean 100k.WT-1-550_1.fq
+start to clean 100k.WT-1-550_2.fq
+start to clean 100k.WT-2-511_2.fq
+start to clean 100k.WT-3-529_1.fq
+start to clean 100k.WT-2-511_1.fq
+start to clean 100k.WT-2-526_1.fq
+start to clean 100k.WT-2-526_2.fq
+start to clean 100k.WT-2-551_2.fq
+start to clean 100k.WT-3-512_1.fq
+start to clean 100k.WT-3-512_2.fq
+start to clean 100k.WT-3-529_2.fq
+start to clean 100k.WT-3-552_1.fq
+start to clean 100k.WT-3-552_2.fq
+start to clean 100k.WT-4-530_1.fq
+start to clean 100k.WT-4-530_2.fq
+start to clean 100k.WT-4-553_1.fq
+start to clean 100k.WT-6-555_2.fq
+start to clean 100k.WT-4-553_2.fq
+start to clean 100k.WT-5-531_1.fq
+start to clean 100k.WT-5-554_2.fq
+start to clean 100k.WT-5-531_2.fq
+start to clean 100k.WT-5-554_1.fq
+start to clean 100k.WT-6-532_1.fq
+start to clean 100k.WT-6-532_2.fq
+start to clean 100k.WT-6-555_1.fq
+Building a SMALL index
+Mapping for 100k.C1-1-501 started
+[bam_sort_core] merging from 0 files and 16 in-memory blocks...
+Mapping for 100k.C1-1-513 started
+[bam_sort_core] merging from 0 files and 16 in-memory blocks...
+Mapping for 100k.C1-1-533 started
+[bam_sort_core] merging from 0 files and 16 in-memory blocks...
+Mapping for 100k.C1-2-502 started
+[bam_sort_core] merging from 0 files and 16 in-memory blocks...
+Mapping for 100k.C1-2-514 started
+[bam_sort_core] merging from 0 files and 16 in-memory blocks...
+Mapping for 100k.C1-2-534 started
+[bam_sort_core] merging from 0 files and 16 in-memory blocks...
+Mapping for 100k.C1-3-503 started
+[bam_sort_core] merging from 0 files and 16 in-memory blocks...
+Mapping for 100k.C1-3-515 started
+[bam_sort_core] merging from 0 files and 16 in-memory blocks...
+Mapping for 100k.C1-3-535 started
+[bam_sort_core] merging from 0 files and 16 in-memory blocks...
+Mapping for 100k.C1-4-516 started
+[bam_sort_core] merging from 0 files and 16 in-memory blocks...
+Mapping for 100k.C1-4-536 started
+[bam_sort_core] merging from 0 files and 16 in-memory blocks...
+Mapping for 100k.C1-5-517 started
+[bam_sort_core] merging from 0 files and 16 in-memory blocks...
+Mapping for 100k.C1-5-539 started
+[bam_sort_core] merging from 0 files and 16 in-memory blocks...
+Mapping for 100k.C1-6-518 started
+[bam_sort_core] merging from 0 files and 16 in-memory blocks...
+Mapping for 100k.C1-6-541 started
+[bam_sort_core] merging from 0 files and 16 in-memory blocks...
+Mapping for 100k.C2-1-504 started
+[bam_sort_core] merging from 0 files and 16 in-memory blocks...
+Mapping for 100k.C2-1-519 started
+[bam_sort_core] merging from 0 files and 16 in-memory blocks...
+Mapping for 100k.C2-1-542 started
+[bam_sort_core] merging from 0 files and 16 in-memory blocks...
+Mapping for 100k.C2-2-505 started
+[bam_sort_core] merging from 0 files and 16 in-memory blocks...
+Mapping for 100k.C2-2-520 started
+[bam_sort_core] merging from 0 files and 16 in-memory blocks...
+Mapping for 100k.C2-2-543 started
+[bam_sort_core] merging from 0 files and 16 in-memory blocks...
+Mapping for 100k.C2-3-506 started
+[bam_sort_core] merging from 0 files and 16 in-memory blocks...
+Mapping for 100k.C2-3-521 started
+[bam_sort_core] merging from 0 files and 16 in-memory blocks...
+Mapping for 100k.C2-3-544 started
+[bam_sort_core] merging from 0 files and 16 in-memory blocks...
+Mapping for 100k.C2-4-522 started
+[bam_sort_core] merging from 0 files and 16 in-memory blocks...
+Mapping for 100k.C2-4-545 started
+[bam_sort_core] merging from 0 files and 16 in-memory blocks...
+Mapping for 100k.C2-5-523 started
+[bam_sort_core] merging from 0 files and 16 in-memory blocks...
+Mapping for 100k.C2-5-546 started
+[bam_sort_core] merging from 0 files and 16 in-memory blocks...
+Mapping for 100k.C2-6-524 started
+[bam_sort_core] merging from 0 files and 16 in-memory blocks...
+Mapping for 100k.C2-6-548 started
+[bam_sort_core] merging from 0 files and 16 in-memory blocks...
+Mapping for 100k.WT-1-507 started
+[bam_sort_core] merging from 0 files and 16 in-memory blocks...
+Mapping for 100k.WT-1-525 started
+[bam_sort_core] merging from 0 files and 16 in-memory blocks...
+Mapping for 100k.WT-1-550 started
+[bam_sort_core] merging from 0 files and 16 in-memory blocks...
+Mapping for 100k.WT-2-511 started
+[bam_sort_core] merging from 0 files and 16 in-memory blocks...
+Mapping for 100k.WT-2-526 started
+[bam_sort_core] merging from 0 files and 16 in-memory blocks...
+Mapping for 100k.WT-2-551 started
+[bam_sort_core] merging from 0 files and 16 in-memory blocks...
+Mapping for 100k.WT-3-512 started
+[bam_sort_core] merging from 0 files and 16 in-memory blocks...
+Mapping for 100k.WT-3-529 started
+[bam_sort_core] merging from 0 files and 16 in-memory blocks...
+Mapping for 100k.WT-3-552 started
+[bam_sort_core] merging from 0 files and 16 in-memory blocks...
+Mapping for 100k.WT-4-530 started
+[bam_sort_core] merging from 0 files and 16 in-memory blocks...
+Mapping for 100k.WT-4-553 started
+Mapping for 100k.WT-5-531 started
+[bam_sort_core] merging from 0 files and 16 in-memory blocks...
+Mapping for 100k.WT-5-554 started
+[bam_sort_core] merging from 0 files and 16 in-memory blocks...
+Mapping for 100k.WT-6-532 started
+[bam_sort_core] merging from 0 files and 16 in-memory blocks...
+Mapping for 100k.WT-6-555 started
+[bam_sort_core] merging from 0 files and 16 in-memory blocks...
